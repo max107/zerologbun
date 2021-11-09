@@ -1,4 +1,4 @@
-package dblogger
+package zerologbun
 
 import (
 	"context"
